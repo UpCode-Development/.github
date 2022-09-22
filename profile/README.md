@@ -8,7 +8,7 @@ Este projeto iniciou por volta de 2021 e estamos em processo de estruturação e
 
 ## Integrantes
 
-Djzefx = Programador JavaScript Bot/Front/Back/Jogo  [Perfil github](https://github.com/MesopotamiaAlpha) [Perfil Linkedin] (<https://www.linkedin.com/in/jos%C3%A9-ant%C3%B4nio-le%C3%A3o-gomes-306ab2192>)
+Djzefx = Programador JavaScript Bot/Front/Back/Jogo  [Perfil github](https://github.com/MesopotamiaAlpha) [Perfil Linkedin](<https://www.linkedin.com/in/jos%C3%A9-ant%C3%B4nio-le%C3%A3o-gomes-306ab2192>)
 
 Sou estudante de programação JavaScript e aspirante em Java para Android.
 
