@@ -12,11 +12,21 @@ Djzefx = Programador JavaScript Bot/Front/Back/Jogo  [Perfil github](https://git
 
 Sou estudante de programação JavaScript e aspirante em Java para Android.
 
+---
 
 Enisson
 
+---
+
 Nascimento
+
+---
 
 Veza
 
+---
+
 Gildazio
+
+
+---
